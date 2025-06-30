@@ -53,13 +53,15 @@ VITE_API=https://api.themoviedb.org/3/movie/
 VITE_SEARCH=https://api.themoviedb.org/3/search/movie
 VITE_API_KEY=api_key=SUA_API_KEY_AQUI
 VITE_IMG=https://image.tmdb.org/t/p/w500
+```
+
 Importante: Substitua SUA_API_KEY_AQUI pela sua chave de API do TheMovieDB.
 Mantenha este arquivo em segredo e não o envie para o GitHub.
-```
 
 ### 4. Rode o projeto localmente
 
 ```bash
 npm run dev
-O site estará disponível em http://localhost:5173 (ou a porta que o Vite informar).
 ```
+
+O site estará disponível em http://localhost:5173 (ou a porta que o Vite informar).
