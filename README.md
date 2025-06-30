@@ -28,7 +28,7 @@ Um site para buscar e exibir informações de filmes, consumindo a API do [TheMo
 
 Clique na imagem para ver o vídeo no YouTube:
 
-[![Demo do Reactmdb]](https://www.youtube.com/watch?v=f2IMTWNchZ4)
+[![Demo do Reactmdb](https://img.youtube.com/vi/f2IMTWNchZ4/0.jpg)](https://www.youtube.com/watch?v=f2IMTWNchZ4)
 
 ---
 
